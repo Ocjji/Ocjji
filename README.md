@@ -10,7 +10,7 @@
   
  <a href="https://ocjji.github.io/Team-project-VanillaJS/index.html" target="_blank">이젠제주투어 바로가기</a>
 
-- 스쿼드메이커 홈페이지 제작 (React, Redux)
+- 스쿼드메이커 홈페이지 제작 (React, Redux, Styled-Components)
   
  <a href="https://ocjji.github.io/TP_FSM/" target="_blank">스쿼드메이커 바로가기</a>
 
