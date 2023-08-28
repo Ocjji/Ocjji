@@ -12,7 +12,7 @@
 
 - 스쿼드메이커 홈페이지 제작 (React, Redux, Styled-Components)
   
- <a href="https://ocjji.github.io/TP_FSM/" target="_blank">스쿼드메이커 바로가기</a>
+ <a href="https://ocjji.github.io/TP_FSM_with_React/" target="_blank">스쿼드메이커 바로가기</a>
 
 
 # 🛠 Tech Stack
