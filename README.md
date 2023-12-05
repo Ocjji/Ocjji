@@ -6,13 +6,13 @@
 - 📫 ocjjiya@gmail.com
 
 # 👯 Project
-- 여행사 홈페이지 제작 (HTML, CSS, JavaScript)
-  
- <a href="https://ocjji.github.io/Team-project-VanillaJS/index.html" target="_blank">이젠제주투어 바로가기</a>
-
 - 스쿼드메이커 홈페이지 제작 (React, Redux, Styled-Components)
   
  <a href="https://ocjji.github.io/TP_FSM_with_React/" target="_blank">스쿼드메이커 바로가기</a>
+
+- 여행사 홈페이지 제작 (HTML, CSS, JavaScript)
+  
+ <a href="https://ocjji.github.io/Team-project-VanillaJS/index.html" target="_blank">이젠제주투어 바로가기</a>
 
 
 # 🛠 Tech Stack
